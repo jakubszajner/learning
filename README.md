@@ -1,5 +1,6 @@
-# Project Title
+# Repository for learning
 
-Put description here.
+I created this repository to share some of my journeys with new ideas, tools, patterns etc. It's time to get out of the basement and stop hiding in private Bitbucket repos.
 
-[comment]: <> (Test if my local git config [email etc.] would be recognized by github)
+# Selenium
+I am creating integration tests for my friend's application which is a music education platform.
